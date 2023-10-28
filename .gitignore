@@ -1,0 +1,9 @@
+blog/
+Dockerfile
+docker-compose.yml
+docker-local.yml
+reports/
+repositories/
+teaching/
+*.swp
+CONTRIBUTING.md
